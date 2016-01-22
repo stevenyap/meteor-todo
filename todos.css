@@ -1,0 +1,3 @@
+.list-task li.checked {
+  text-decoration: line-through;
+}
